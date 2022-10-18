@@ -7,3 +7,5 @@ Monolithic Dashboard APP. Created to practice microfrontend architecture pattern
 
 -   Container, Marketing and Auth with React & MUI
 -   Dashboard with Vue
+
+-   Created CI/CD with github actions & aws
