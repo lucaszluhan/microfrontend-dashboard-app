@@ -27,4 +27,4 @@ jobs:
                   AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
                   AWS_REGION: 'sa-east-1'
                   SOURCE_DIR: 'dist'
-                  DEST_DIR: '/container/latest'
+                  DEST_DIR: 'container/latest'
